@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArthurKova/react-1/static/css/main.67fdea39.css",
+    "main.js": "/ArthurKova/react-1/static/js/main.aca0acdb.js",
+    "index.html": "/ArthurKova/react-1/index.html",
+    "main.67fdea39.css.map": "/ArthurKova/react-1/static/css/main.67fdea39.css.map",
+    "main.aca0acdb.js.map": "/ArthurKova/react-1/static/js/main.aca0acdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67fdea39.css",
+    "static/js/main.aca0acdb.js"
+  ]
+}
