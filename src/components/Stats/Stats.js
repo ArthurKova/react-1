@@ -5,16 +5,16 @@ import propTypes from 'prop-types';
 
 const Stats = ({ data, title }) => {
   return (
-    <section class={s.statistics}>
-      {title && <h2 class="title">{title}</h2>}
+    <section className={s.statistics}>
+      {title && <h2 className="title">{title}</h2>}
 
-      <ul class={s.statsList}>
+      <ul className={s.statsList}>
         {data.map(el => {
           const { id, label, percentage } = el;
           return (
             <li key={id}>
-              <span class="label">{label}</span>
-              <span class="percentage">{percentage}</span>
+              <span className="label">{label}</span>
+              <span className="percentage">{percentage}</span>
             </li>
           );
         })}

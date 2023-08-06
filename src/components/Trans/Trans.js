@@ -4,7 +4,7 @@ import propTypes from 'prop-types';
 
 const Trans = ({ data }) => {
   return (
-    <table class={s.history}>
+    <table className={s.history}>
       <thead>
         <tr>
           <th>Type</th>
