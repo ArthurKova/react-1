@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ArthurKova/react-1/static/css/main.67fdea39.css",
-    "main.js": "/ArthurKova/react-1/static/js/main.aca0acdb.js",
-    "index.html": "/ArthurKova/react-1/index.html",
-    "main.67fdea39.css.map": "/ArthurKova/react-1/static/css/main.67fdea39.css.map",
-    "main.aca0acdb.js.map": "/ArthurKova/react-1/static/js/main.aca0acdb.js.map"
+    "main.css": "/react-1/static/css/main.67fdea39.css",
+    "main.js": "/react-1/static/js/main.729eca0f.js",
+    "index.html": "/react-1/index.html",
+    "main.67fdea39.css.map": "/react-1/static/css/main.67fdea39.css.map",
+    "main.729eca0f.js.map": "/react-1/static/js/main.729eca0f.js.map"
   },
   "entrypoints": [
     "static/css/main.67fdea39.css",
-    "static/js/main.aca0acdb.js"
+    "static/js/main.729eca0f.js"
   ]
 }
